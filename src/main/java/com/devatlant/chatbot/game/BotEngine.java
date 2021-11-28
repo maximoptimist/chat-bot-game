@@ -37,7 +37,7 @@ public class BotEngine extends TelegramLongPollingBot {
     }
 
     public String getBotUsername() {
-        return "perros_2107_bot";
+        return "maximoptimist_chatbot";
     }
 
     public String getBotToken() {
