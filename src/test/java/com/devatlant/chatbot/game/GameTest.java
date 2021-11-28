@@ -26,7 +26,7 @@ class GameTest {
 
     @org.junit.jupiter.api.Test
     void should_return_true_for_int_100() {
-        assertEquals(true, Game.isInteger("1s00"));
+        assertEquals(true, Game.isInteger("100"));
     }
 
     @org.junit.jupiter.api.Test
