@@ -25,13 +25,13 @@ class GameTest {
     }
 
     @org.junit.jupiter.api.Test
-    void isInteger_success_test() {
-        assertEquals(true, Game.isInteger("253"));
+    void should_return_true_for_int_100() {
+        assertEquals(true, Game.isInteger("100"));
     }
 
     @org.junit.jupiter.api.Test
-    void isInteger_failed_test() {
-        assertEquals(false, Game.isInteger("25h3"));
+    void should_return_false_for_text_anyText() {
+        assertEquals(false, Game.isInteger("anyText"));
     }
 
     public Message buildMessage(final String text){
