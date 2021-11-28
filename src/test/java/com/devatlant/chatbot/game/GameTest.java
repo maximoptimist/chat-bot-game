@@ -24,6 +24,16 @@ class GameTest {
         assertEquals(RESPONSE.START, res);
     }
 
+    @org.junit.jupiter.api.Test
+    void isInteger_success_test() {
+        assertEquals(true, Game.isInteger("253"));
+    }
+
+    @org.junit.jupiter.api.Test
+    void isInteger_failed_test() {
+        assertEquals(false, Game.isInteger("25h3"));
+    }
+
     public Message buildMessage(final String text){
         try {
             return objectMapper.readValue(String.format("{\"text\":\"%s\"}", text), Message.class);
