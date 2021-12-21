@@ -27,5 +27,14 @@ This project uses under the hood a popular java abstraction library for accessin
 ![screenshot](https://raw.githubusercontent.com/devatlant/chat-bot-game/master/res/telegram_screenshot.jpg)
 
 ## About me
-
 Hello GitHub! :robot:
+~~My name is Victor~~
+My name is *Maxim Proskura*
+I know the following languages:
+*English
+*French
+*Russian
+*Ukrainian
+Was the task completed?
+- [x] yes :tada:
+- [ ] no :skull_and_crossbones:
