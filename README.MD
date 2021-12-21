@@ -29,12 +29,12 @@ This project uses under the hood a popular java abstraction library for accessin
 ## About me
 Hello GitHub! :robot:<br/>
 ~~My name is Victor~~<br/>
-My name is *Maxim Proskura*
+My name is *Maxim Proskura*<br/>
 I know the following languages:
 * English
 * French
 * Russian
-* Ukrainian
+* Ukrainian <br/>
 Was the task completed?
 - [x] yes :tada:
 - [ ] no :skull_and_crossbones:
