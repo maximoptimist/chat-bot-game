@@ -35,6 +35,7 @@ I know the following languages:
 * French
 * Russian
 * Ukrainian <br/>
+&nbsp;
 Was the task completed?
 - [x] yes :tada:
 - [ ] no :skull_and_crossbones:
